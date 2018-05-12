@@ -1,0 +1,29 @@
+_repo: My-Lord-Duke_37337
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hornung, E. W. (Ernest William)
+    alias: Hornung, Ernest William
+    birthdate: 1866
+    deathdate: 1921
+    gutenberg_agent_id: '364'
+    url: http://www.gutenberg.org/2009/agents/364
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_William_Hornung
+description: ''
+gutenberg_issued: '2011-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37337'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Australians -- England -- Fiction'
+title: My Lord Duke
+url: http://www.gutenberg.org/ebooks/37337
